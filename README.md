@@ -24,3 +24,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
+## Screenshots
+### Home Page 
+
+<img width="1920" height="1020" alt="screenshot-1763960087407" src="https://github.com/user-attachments/assets/e435b0bc-fc70-4be0-8697-c142fa5b059f" />
+
+### Checkout Page 
+
+<img width="1920" height="1020" alt="screenshot-1763960253569" src="https://github.com/user-attachments/assets/f55d4b6e-b813-49cd-b8e5-bd0f39534bd6" />
+
+### Orders Page 
+
+<img width="1920" height="1020" alt="screenshot-1763960407702" src="https://github.com/user-attachments/assets/4fa3f6e8-2990-44ca-9d40-6acd59e1a36a" />
+
+### Tracking Page
+
+<img width="1920" height="1020" alt="screenshot-1763960474612" src="https://github.com/user-attachments/assets/61c83602-ea95-4333-ae1a-239549a9e5df" />
